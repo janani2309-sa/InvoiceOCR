@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "8214cd27",
+   "id": "b3d78e40",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2024-06-18T09:51:26.082215Z",
-     "iopub.status.busy": "2024-06-18T09:51:26.081172Z",
-     "iopub.status.idle": "2024-06-18T09:51:27.086519Z",
-     "shell.execute_reply": "2024-06-18T09:51:27.085172Z"
+     "iopub.execute_input": "2024-06-18T10:14:26.106482Z",
+     "iopub.status.busy": "2024-06-18T10:14:26.106197Z",
+     "iopub.status.idle": "2024-06-18T10:14:26.857475Z",
+     "shell.execute_reply": "2024-06-18T10:14:26.856414Z"
     },
     "papermill": {
-     "duration": 1.013889,
-     "end_time": "2024-06-18T09:51:27.089420",
+     "duration": 0.758057,
+     "end_time": "2024-06-18T10:14:26.859815",
      "exception": false,
-     "start_time": "2024-06-18T09:51:26.075531",
+     "start_time": "2024-06-18T10:14:26.101758",
      "status": "completed"
     },
     "tags": []
@@ -83,19 +83,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "e99309a2",
+   "id": "9e2b7f6d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-18T09:51:27.099136Z",
-     "iopub.status.busy": "2024-06-18T09:51:27.097990Z",
-     "iopub.status.idle": "2024-06-18T09:51:39.023267Z",
-     "shell.execute_reply": "2024-06-18T09:51:39.021843Z"
+     "iopub.execute_input": "2024-06-18T10:14:26.868537Z",
+     "iopub.status.busy": "2024-06-18T10:14:26.867519Z",
+     "iopub.status.idle": "2024-06-18T10:14:34.359407Z",
+     "shell.execute_reply": "2024-06-18T10:14:34.358511Z"
     },
     "papermill": {
-     "duration": 11.932577,
-     "end_time": "2024-06-18T09:51:39.026134",
+     "duration": 7.498316,
+     "end_time": "2024-06-18T10:14:34.361590",
      "exception": false,
-     "start_time": "2024-06-18T09:51:27.093557",
+     "start_time": "2024-06-18T10:14:26.863274",
      "status": "completed"
     },
     "tags": []
@@ -116,15 +116,15 @@
       "  fonts-arphic-uming fonts-nanum\r\n",
       "The following NEW packages will be installed:\r\n",
       "  libpoppler97 poppler-data poppler-utils\r\n",
-      "0 upgraded, 3 newly installed, 0 to remove and 64 not upgraded.\r\n",
+      "0 upgraded, 3 newly installed, 0 to remove and 75 not upgraded.\r\n",
       "Need to get 2564 kB of archives.\r\n",
       "After this operation, 16.8 MB of additional disk space will be used.\r\n",
       "Get:1 http://archive.ubuntu.com/ubuntu focal/main amd64 poppler-data all 0.4.9-2 [1475 kB]\r\n",
       "Get:2 http://archive.ubuntu.com/ubuntu focal-updates/main amd64 libpoppler97 amd64 0.86.1-0ubuntu1.4 [916 kB]\r\n",
       "Get:3 http://archive.ubuntu.com/ubuntu focal-updates/main amd64 poppler-utils amd64 0.86.1-0ubuntu1.4 [174 kB]\r\n",
-      "Fetched 2564 kB in 3s (932 kB/s)\r\n",
+      "Fetched 2564 kB in 0s (9636 kB/s)\r\n",
       "Selecting previously unselected package poppler-data.\r\n",
-      "(Reading database ... 110195 files and directories currently installed.)\r\n",
+      "(Reading database ... 113807 files and directories currently installed.)\r\n",
       "Preparing to unpack .../poppler-data_0.4.9-2_all.deb ...\r\n",
       "Unpacking poppler-data (0.4.9-2) ...\r\n",
       "Selecting previously unselected package libpoppler97:amd64.\r\n",
@@ -149,19 +149,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "c49caf2a",
+   "id": "e5e816c9",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-18T09:51:39.040358Z",
-     "iopub.status.busy": "2024-06-18T09:51:39.039935Z",
-     "iopub.status.idle": "2024-06-18T09:52:08.018833Z",
-     "shell.execute_reply": "2024-06-18T09:52:08.017652Z"
+     "iopub.execute_input": "2024-06-18T10:14:34.375511Z",
+     "iopub.status.busy": "2024-06-18T10:14:34.375201Z",
+     "iopub.status.idle": "2024-06-18T10:14:58.773991Z",
+     "shell.execute_reply": "2024-06-18T10:14:58.773193Z"
     },
     "papermill": {
-     "duration": 28.990061,
-     "end_time": "2024-06-18T09:52:08.022158",
+     "duration": 24.408384,
+     "end_time": "2024-06-18T10:14:58.776330",
      "exception": false,
-     "start_time": "2024-06-18T09:51:39.032097",
+     "start_time": "2024-06-18T10:14:34.367946",
      "status": "completed"
     },
     "tags": []
@@ -189,19 +189,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "ed90ce8f",
+   "id": "0ad8bdee",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-18T09:52:08.035712Z",
-     "iopub.status.busy": "2024-06-18T09:52:08.035296Z",
-     "iopub.status.idle": "2024-06-18T09:52:08.276951Z",
-     "shell.execute_reply": "2024-06-18T09:52:08.275925Z"
+     "iopub.execute_input": "2024-06-18T10:14:58.790312Z",
+     "iopub.status.busy": "2024-06-18T10:14:58.790019Z",
+     "iopub.status.idle": "2024-06-18T10:14:58.966605Z",
+     "shell.execute_reply": "2024-06-18T10:14:58.965826Z"
     },
     "papermill": {
-     "duration": 0.251417,
-     "end_time": "2024-06-18T09:52:08.279509",
+     "duration": 0.18588,
+     "end_time": "2024-06-18T10:14:58.968815",
      "exception": false,
-     "start_time": "2024-06-18T09:52:08.028092",
+     "start_time": "2024-06-18T10:14:58.782935",
      "status": "completed"
     },
     "tags": []
@@ -220,19 +220,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "83ada79e",
+   "id": "ae0301ec",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-18T09:52:08.293027Z",
-     "iopub.status.busy": "2024-06-18T09:52:08.292656Z",
-     "iopub.status.idle": "2024-06-18T09:52:08.302695Z",
-     "shell.execute_reply": "2024-06-18T09:52:08.301482Z"
+     "iopub.execute_input": "2024-06-18T10:14:58.982171Z",
+     "iopub.status.busy": "2024-06-18T10:14:58.981924Z",
+     "iopub.status.idle": "2024-06-18T10:14:58.989227Z",
+     "shell.execute_reply": "2024-06-18T10:14:58.988550Z"
     },
     "papermill": {
-     "duration": 0.019867,
-     "end_time": "2024-06-18T09:52:08.305378",
+     "duration": 0.016162,
+     "end_time": "2024-06-18T10:14:58.991051",
      "exception": false,
-     "start_time": "2024-06-18T09:52:08.285511",
+     "start_time": "2024-06-18T10:14:58.974889",
      "status": "completed"
     },
     "tags": []
@@ -250,19 +250,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "4c183ff9",
+   "id": "9d0d5c3e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-18T09:52:08.318992Z",
-     "iopub.status.busy": "2024-06-18T09:52:08.318595Z",
-     "iopub.status.idle": "2024-06-18T09:52:08.325372Z",
-     "shell.execute_reply": "2024-06-18T09:52:08.324155Z"
+     "iopub.execute_input": "2024-06-18T10:14:59.004256Z",
+     "iopub.status.busy": "2024-06-18T10:14:59.003994Z",
+     "iopub.status.idle": "2024-06-18T10:14:59.009438Z",
+     "shell.execute_reply": "2024-06-18T10:14:59.008649Z"
     },
     "papermill": {
-     "duration": 0.016502,
-     "end_time": "2024-06-18T09:52:08.327862",
+     "duration": 0.014131,
+     "end_time": "2024-06-18T10:14:59.011271",
      "exception": false,
-     "start_time": "2024-06-18T09:52:08.311360",
+     "start_time": "2024-06-18T10:14:58.997140",
      "status": "completed"
     },
     "tags": []
@@ -275,7 +275,7 @@
     "    # Regex for company name (assuming it's a word starting with a capital letter)\n",
     "    company_pattern = r'\\b[A-Z][a-zA-Z]+(?:\\s+[A-Z][a-zA-Z]+)*\\b'\n",
     "    # Regex for total cost (assuming currency symbols like $, €, £, etc.)\n",
-    "    cost_pattern = r'\\b(?:USD|EUR|GBP|AUD|CAD|CHF|CNY|JPY|INR|RUB)?\\s?[\\$€£¥]?\\s?\\d+(?:,\\d{3})*(?:\\.\\d{2})?\\b'\n",
+    "    cost_pattern = r'\\b(?:USD|EUR|GBP|AUD|CAD|CHF|CNY|JPY|INR|RUB|SGD)?\\s?[\\$€£¥]?\\s?\\d+(?:,\\d{3})*(?:\\.\\d{2})?\\b'\n",
     "    \n",
     "    company = re.findall(company_pattern, text)\n",
     "    total_cost = re.findall(cost_pattern, text)\n",
@@ -289,19 +289,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "ab278cef",
+   "id": "d5433e40",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-18T09:52:08.341358Z",
-     "iopub.status.busy": "2024-06-18T09:52:08.340966Z",
-     "iopub.status.idle": "2024-06-18T10:04:10.398382Z",
-     "shell.execute_reply": "2024-06-18T10:04:10.396016Z"
+     "iopub.execute_input": "2024-06-18T10:14:59.024450Z",
+     "iopub.status.busy": "2024-06-18T10:14:59.024024Z",
+     "iopub.status.idle": "2024-06-18T10:17:49.061722Z",
+     "shell.execute_reply": "2024-06-18T10:17:49.060746Z"
     },
     "papermill": {
-     "duration": 722.072722,
-     "end_time": "2024-06-18T10:04:10.406540",
+     "duration": 170.052734,
+     "end_time": "2024-06-18T10:17:49.069989",
      "exception": false,
-     "start_time": "2024-06-18T09:52:08.333818",
+     "start_time": "2024-06-18T10:14:59.017255",
      "status": "completed"
     },
     "tags": []
@@ -313,17 +313,17 @@
      "text": [
       "DataFrame:\n",
       "                                              company   total_cost\n",
-      "0                                                  BT          009\n",
-      "1                                        Nae\\n\\nHapag            7\n",
-      "2                                      ORIGINAL\\nOOCL            0\n",
-      "3                                                  TE     69581757\n",
-      "4                                 BE Microsoft\\n\\nCTC         \\n21\n",
+      "0                                      WAN HAI\\n\\nDST            6\n",
+      "1            BRAG SCS\\n\\nLeschaco Pte Ltd\\n\\nPan Thee       608526\n",
+      "2   MAERSK\\n\\nEQUIPMENT MAINTENANCE INVOICE\\n\\nCus...        \\n\\n1\n",
+      "3                                 RAE\\n\\nOcean Vessel          329\n",
+      "4   MAERSK\\n\\nCustomer\\n\\nSYNGENTA ASIA PACIFIC PT...         2010\n",
       "..                                                ...          ...\n",
-      "56                         RESOLUTE SOLUTIONS PTE LTD        \\n\\n7\n",
-      "57                               JING ET\\n\\nLogistics   5140554563\n",
-      "58                      WAN HAI\\n\\nBASF Hong Kong Ltd           36\n",
-      "59                                              Pewee           £1\n",
-      "60  MAERSK\\n\\nEQUIPMENT MAINTENANCE INVOICE\\n\\nCus...        \\n\\n1\n",
+      "56                                            Pm Tier           31\n",
+      "57                                    HEPC Account No     96463548\n",
+      "58                      PROFORMA TAX INVOICE\\nGST REG      0121206\n",
+      "59                               JING ET\\n\\nLogistics   5140554563\n",
+      "60                                              Datum           79\n",
       "\n",
       "[61 rows x 2 columns]\n",
       "\n",
@@ -366,7 +366,7 @@
  ],
  "metadata": {
   "kaggle": {
-   "accelerator": "none",
+   "accelerator": "nvidiaTeslaT4",
    "dataSources": [
     {
      "datasetId": 5231856,
@@ -374,8 +374,8 @@
      "sourceType": "datasetVersion"
     }
    ],
-   "dockerImageVersionId": 30732,
-   "isGpuEnabled": false,
+   "dockerImageVersionId": 30733,
+   "isGpuEnabled": true,
    "isInternetEnabled": true,
    "language": "python",
    "sourceType": "notebook"
@@ -399,14 +399,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 768.008876,
-   "end_time": "2024-06-18T10:04:11.043215",
+   "duration": 206.173037,
+   "end_time": "2024-06-18T10:17:49.494877",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2024-06-18T09:51:23.034339",
+   "start_time": "2024-06-18T10:14:23.321840",
    "version": "2.5.0"
   }
  },
